@@ -60,10 +60,9 @@ Change the directory of the data while loading it.
 
 ## Documentation
 
-**Project Proposal** [Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
 
-**Project Report** [Link to the report.](https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing)
+**Project Report** [Link to the report.](https://docs.google.com/document/d/1Yaed6U5o-NEfac1D5XgupxdbwSOb9ApX/edit?usp=sharing&ouid=118283914754283972248&rtpof=true&sd=true)
 
-**Project Presentation** [Link to the presentation.](https://docs.google.com/presentation/d/1GvnZEmmn7ErtTd50o6Kk5z9dIkrXiqz6KkMAr9LYctc/edit?usp=sharing)
+**Project Presentation** [Link to the presentation.](https://docs.google.com/presentation/d/10v0LvbcyYXw1jntk6KSQw9ePGoHtquIzVWB4y0aNbvI/edit?usp=sharing)
 
 
