@@ -1,6 +1,6 @@
 # 
 
-# CMPE_255_Group_4: Team Project
+# CMPE_255_Group_6: Team Project
 
 ## Team Members
 1. Meet Patel (015971098)
